@@ -91,7 +91,7 @@ superstore-llm-api-pipeline/
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <ссылка-на-репозиторий>
+git clone https://github.com/AntoshinaVeronicka/superstore-llm-api-pipeline
 cd superstore-llm-api-pipeline
 ```
 
