@@ -129,5 +129,5 @@ pip install -r requirements.txt
 
 ```env
 OPENAI_API_KEY=your_api_key_here
-OPENAI_MODEL=gpt-4.1
+OPENAI_MODEL=gpt-5-nano
 ```
